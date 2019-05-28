@@ -6,6 +6,7 @@ public class First {
 		System.out.println("Hello world");
 		System.out.println("Hello Java");
 		System.out.println("Hello");
+		System.out.println("Git integration check");
 		
 	}
 
